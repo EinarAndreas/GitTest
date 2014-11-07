@@ -6,7 +6,8 @@
 package testgit;
 
 /**
- *
+ * Test of GitHub.
+ * <p>
  * @author einarro
  */
 public class TestGit {
